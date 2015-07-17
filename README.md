@@ -8,7 +8,7 @@ npm i --save nstrap-environment
 ```
 
 ## Example
-```
+```javascript
 var bootstrap = require('nstrap')();
 
 bootstrap.add(require('nstrap-environment')({
